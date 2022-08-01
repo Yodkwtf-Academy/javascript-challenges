@@ -5,3 +5,7 @@ A collection of some fun javascript challenges along with their solution. These 
 Please refer to the table below for tutorial links.
 
 ## Contents
+
+|   Challenge   |  Tutorial Link  | Level |
+| :---------: | :----------------: | :----------------: |
+|   [FizzBuzz](./src/fizzbuzz)    |        Not yet uploaded        | Easy |
