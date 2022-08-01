@@ -1,0 +1,24 @@
+{
+  "name": "js-challenges",
+  "version": "1.0.0",
+  "description": "A collection of some fun javascript challenges along with their solution.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodkwtf/javascript-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yodkwtf/javascript-challenges/issues"
+  },
+  "homepage": "https://github.com/yodkwtf/javascript-challenges#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
